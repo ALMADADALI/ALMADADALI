@@ -36,6 +36,10 @@ a **Cybersecurity Enthusiast**, **CEH Certified Hacker**, **Bug Bounty Hunter**,
 
 ---
 
+![Snake animation](https://raw.githubusercontent.com/TechnologyHell/TechnologyHell/output/github-snake-dark.svg)
+
+---
+
 ## 🚀 Join Us
 
 If you're serious about learning hacking the right way — legally, ethically, and with real skills —  
