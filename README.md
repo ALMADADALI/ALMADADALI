@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-  <img src="(https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=50&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Hi!+I'M+Cyber+MInd+Space+%3C3;Welcome+to+my+Profile)](https://git.io/typing-svg)" alt="Title"></img>
+  <img src="(https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=50&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Hi!+I'M+Cyber+MInd+Space+%3C3;Welcome+to+my+Profile)" alt="Title"></img>
   </a>
 </div>
 
