@@ -1,5 +1,5 @@
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
- <img src="https://raw.githubusercontent.com/ALMADADALI/README.md/refs/heads/main/assets/cms-logo.png?token=GHSAT0AAAAAADIOOQ64KDULG6STG6LUXAIO2E63MLA" align="right" width="150"/>
+ <img src="https://raw.githubusercontent.com/ALMADADALI/ALMADADALI/refs/heads/main/cms-logo.png" align="right" width="150"/>
 
 I'm **Almadad Ali**, a highly skilled Cybersecurity Specialist, Ethical Hacker, and Security Researcher with a strong track record in penetration testing, malware forensics, and advanced vulnerability research.  
 
