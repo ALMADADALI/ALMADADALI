@@ -1,3 +1,13 @@
+
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+  <img src="(https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=50&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Hi!+I'M+Cyber+MInd+Space+%3C3;Welcome+to+my+Profile)](https://git.io/typing-svg)" alt="Title"></img>
+  </a>
+</div>
+
+
+
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img src="https://raw.githubusercontent.com/ALMADADALI/ALMADADALI/refs/heads/main/cms-logo.png" align="right" width="150"/>
 
 I'm **Almadad Ali**, a highly skilled Cybersecurity Specialist, Ethical Hacker, and Security Researcher with a strong track record in penetration testing, malware forensics, and advanced vulnerability research.  
