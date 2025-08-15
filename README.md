@@ -1,8 +1,9 @@
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-  <img src="(https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=50&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Hi!+I'M+Cyber+MInd+Space+%3C3;Welcome+to+my+Profile)" alt="Title"></img>
+    <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=50&pause=1000&center=true&vCenter=true&width=600&height=60&lines=hhHi!+I'M+Cyber+MInd+Space+%3C3;Welcome+to+my+Profile" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,7 +13,7 @@
 
 I'm **Almadad Ali**, a highly skilled Cybersecurity Specialist, Ethical Hacker, and Security Researcher with a strong track record in penetration testing, malware forensics, and advanced vulnerability research.  
 
-I am the founder of **Cyber Mind Space** — a leading cybersecurity YouTube channel with 100K+ subscribers, where I share real-world hacking techniques, professional pentesting tutorials, and industry-grade security knowledge that empowers professionals, students, and enthusiasts worldwide.  
+I am the founder of **[Cyber Mind Space](https://www.youtube.com/@CyberMindSpace)** — a leading cybersecurity YouTube channel with 100K+ subscribers, where I share real-world hacking techniques, professional pentesting tutorials, and industry-grade security knowledge that empowers professionals, students, and enthusiasts worldwide.  
 
 With expertise spanning **offensive security**, **exploit development**, **reverse engineering**, and **web application security**, I aim to bridge the gap between theory and practice — helping individuals and organizations strengthen their defenses against ever-evolving threats.  
 
@@ -118,6 +119,9 @@ With expertise spanning **offensive security**, **exploit development**, **rever
 ---
 
 **"Talk is cheap. Show me the code."**
+<p align="center">
+<a>🌱</a>
+</p>
 
 ---
 
