@@ -162,7 +162,7 @@ With expertise spanning **offensive security**, **exploit development**, **rever
 
 <p align="center">
     🔗 <a href="https://cybermindspace.com/" target="_blank">Cyber Mind Space — Explore Our Cybersecurity World</a>
-          <img src="https://raw.githubusercontent.com/ALMADADALI/ALMADADALI/refs/heads/main/Cyber%20Mind%20Space%20-%20Learn%20Cybersecurity%20%26%20Hacking%20-%20Google%20Chrome%208_15_2025%2012_43_13%20PM.png" width="600" alt="Cyber Mind Space Website Preview">
+          <img src="https://raw.githubusercontent.com/ALMADADALI/ALMADADALI/refs/heads/main/Screenshot%202025-09-09%20214258.png" width="600" alt="Cyber Mind Space Website Preview">
   </a>
 </p>
 
