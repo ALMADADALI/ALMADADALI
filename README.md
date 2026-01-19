@@ -27,7 +27,7 @@ With expertise spanning **offensive security**, **exploit development**, **rever
 - **Name:** Almadad Ali  
 - **From:** India 🇮🇳  
 - **Role:** Cybersecurity Specialist | Ethical Hacker | Security Researcher | Forensics Analyst  
-- **Founder:** Cyber Mind Space (100K+ Subscribers)  
+- **Founder:** Cyber Mind Space (200K+ Subscribers)  
 
 **Specialties:**
 - Web Application Security — OWASP Top 10, API Pentesting, Business Logic Flaws  
