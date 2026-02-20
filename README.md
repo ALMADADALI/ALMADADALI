@@ -15,7 +15,7 @@
 
 I'm **Almadad Ali**, a highly skilled Cybersecurity Specialist, Ethical Hacker, and Security Researcher with a strong track record in penetration testing, malware forensics, and advanced vulnerability research.  
 
-I am the founder of **[Cyber Mind Space](https://www.youtube.com/@CyberMindSpace)** — a leading cybersecurity YouTube channel with 100K+ subscribers, where I share real-world hacking techniques, professional pentesting tutorials, and industry-grade security knowledge that empowers professionals, students, and enthusiasts worldwide.  
+I am the founder of **[Cyber Mind Space](https://www.youtube.com/@CyberMindSpace)** — a leading cybersecurity YouTube channel with 200K+ subscribers, where I share real-world hacking techniques, professional pentesting tutorials, and industry-grade security knowledge that empowers professionals, students, and enthusiasts worldwide.  
 
 With expertise spanning **offensive security**, **exploit development**, **reverse engineering**, and **web application security**, I aim to bridge the gap between theory and practice — helping individuals and organizations strengthen their defenses against ever-evolving threats.  
 
